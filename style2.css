@@ -211,3 +211,50 @@ a::before {
   z-index: -1;
   transition: all .3s ease-in-out;
 }
+
+
+
+.sidenote {
+    font-size: .8rem;
+    float: right;
+    clear: right;
+    width: 18vw;
+    margin-right: -20vw;
+    margin-bottom: 1em;
+    text-indent: 0
+}
+
+.sidenote.left {
+    float: left;
+    margin-left: -20vw;
+    margin-bottom: 1em;
+    text-indent: 0
+}
+
+.sidenote:target {
+    border: var(--sidenote-target-border-color) 1.5px solid;
+    padding: 0 .5rem;
+    scroll-margin-block-start: 10rem
+}
+
+.sidenote-number {
+    counter-increment: sidenote-counter
+}
+
+.sidenote-number:after,.sidenote:before {
+    position: relative;
+    vertical-align: baseline
+}
+
+.sidenote-number:after {
+    content: counter(sidenote-counter);
+    font-size: .7rem;
+    top: -.5rem;
+    left: .1rem
+}
+
+.sidenote-number~.sidenote:before {
+    content: counter(sidenote-counter) " ";
+    font-size: .7rem;
+    top: -.5rem
+}
