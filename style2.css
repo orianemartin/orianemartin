@@ -179,9 +179,13 @@ a {
   position: relative;
 }
 
+a {
+    color: inherit;
+}
+
 a::before {
   content: '';
-  background-color: hsla(196, 61%, 58%, .75);
+  background-color: hsla(46, 100%, 50%, .75);
   position: absolute;
   left: 0;
   bottom: 3px;
@@ -197,7 +201,7 @@ a:hover::before {
 
 a::before {
   content: '';
-  background-color: hsla(196, 61%, 58%, .75);
+  background-color: hsla(46, 100%, 50%, .75);
   position: absolute;
   left: 0;
   bottom: 3px;
