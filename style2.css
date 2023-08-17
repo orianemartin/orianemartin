@@ -1,23 +1,23 @@
 /* use Charis SIL - Regular in .woff2 format */
 @font-face {
-  font-family: CharisSIL;
+  font-family: CMR;
   src: url(CharisSIL-Regular.woff2);
 }
 /* use Charis SIL - Italic in .woff2 format */
 @font-face {
-  font-family: CharisSIL;
+  font-family: CMR;
   font-style: italic;
   src: url(CharisSIL-Italic.woff2);
 }
 /* use Charis SIL - Bold in .woff2 format */
 @font-face {
-	font-family: CharisSIL;
+	font-family: CMR;
 	font-weight: bold;
 	src: url(CharisSIL-Bold.woff2);
 }
 /* use Charis SIL - Bold Italic in .woff2 format */
 @font-face {
-	font-family: CharisSIL;
+	font-family: CMR;
 	font-weight: bold;
 	font-style: italic;
 	src: url(CharisSIL-BoldItalic.woff2);
