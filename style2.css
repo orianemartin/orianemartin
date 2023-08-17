@@ -280,24 +280,35 @@ input.sidenote-toggle {
 
 @media (max-width: 1050px) {
     label.sidenote-toggle:not(.sidenote-number) {
-        display:inline
+        display: inline;
     }
 
     .sidenote {
-        display: none
+        display: none;
     }
 
-    .sidenote-toggle:checked+.sidenote {
+    .sidenote-toggle:checked + .sidenote {
         display: block;
         margin: .5rem 1.25rem 1rem .5rem;
-        float: left;
-        left: 1rem;
+        float: none; /* Change 'left' to 'none' */
         clear: both;
-        width: 95%
+        width: 95%;
     }
 
     blockquote .sidenote {
-        margin-right: -25vw;
-        width: 16vw
+        margin-right: 0; /* Reset the margin */
+        width: 100%; /* Full width */
     }
+}
+
+/* Your existing CSS code */
+
+/* Add a media query for screens with a maximum width of 768px (typical mobile width) */
+@media (max-width: 768px) {
+    .Margins {
+        padding-left: 5%; /* Adjust the left padding for smaller screens */
+        width: 90%; /* Make the content wider on smaller screens */
+    }
+
+    /* Adjust any other specific styles as needed for mobile layout */
 }
