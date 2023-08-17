@@ -79,6 +79,7 @@ body {
 
 .Section{
     font-family: CMB;
+	font-weight: bold;
     font-size: 33px;
     text-align: Left;
     margin-top: 13px;
