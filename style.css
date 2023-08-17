@@ -22,3 +22,7 @@
 	font-style: italic;
 	src: url(CharisSIL-BoldItalic.woff2);
 }
+
+html {
+  font-family: "CharisSIL", "Latin Modern", serif;
+}
