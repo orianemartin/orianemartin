@@ -317,6 +317,8 @@ input.sidenote-toggle {
   position: relative;
   width: 200px; /* Set your desired image width */
   height: 200px; /* Set your desired image height */
+  overflow: hidden;
+  border-radius: 50%; /* Create a circular shape */
 }
 
 .default-image,
