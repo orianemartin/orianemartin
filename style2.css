@@ -301,19 +301,24 @@ input.sidenote-toggle {
     }
 }
 
+/* Your existing CSS code */
+
+/* Add a media query for screens with a maximum width of 768px (typical mobile width) */
 @media (max-width: 768px) {
     .Margins {
-        padding-left: 5%; 
-        width: 90%;
+        padding-left: 5%; /* Adjust the left padding for smaller screens */
+        width: 90%; /* Make the content wider on smaller screens */
     }
 
+    /* Adjust any other specific styles as needed for mobile layout */
 }
 
 .image-container {
+  position: relative;
   width: 200px; 
   height: 200px; 
   overflow: hidden;
-  border-radius: 50%; 
+  border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -335,7 +340,7 @@ input.sidenote-toggle {
 }
 
 .image-container:hover .default-image {
-  opacity: 0; 
+  opacity: 0;
 }
 
 .image-container:hover .hover-image {
