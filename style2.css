@@ -317,7 +317,6 @@ input.sidenote-toggle {
   position: relative;
   width: 200px; /* Set your desired image width */
   height: 200px; /* Set your desired image height */
-  perspective: 1000px; /* Perspective for 3D effect (adjust as needed) */
 }
 
 .default-image,
@@ -328,17 +327,17 @@ input.sidenote-toggle {
   position: absolute;
   top: 0;
   left: 0;
-  transition: transform 0.3s ease; /* Add a smooth transition effect for transform */
+  transition: opacity 0.3s ease; /* Add a smooth transition effect for opacity */
 }
 
 .hover-image {
-  transform: rotateY(180deg); /* Initially, flip the hover image 180 degrees */
+  opacity: 0; /* Initially, hide the hover image */
 }
 
 .image-container:hover .default-image {
-  transform: rotateY(180deg); /* Rotate the default image 180 degrees on hover */
+  opacity: 0; /* Hide the default image on hover */
 }
 
 .image-container:hover .hover-image {
-  transform: rotateY(0deg); /* Reset the hover image rotation on hover */
+  opacity: 1; /* Show the hover image on hover */
 }
