@@ -349,9 +349,23 @@ input.sidenote-toggle {
   opacity: 1; 
 }
 
-.tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg {
+    border:none;
+    border-collapse:collapse;
+    border-color:#ccc;
+    border-spacing:0;
+}
+.tg td {
+    background-color:#fff;
+    border-color:#ccc;
+    border-style:solid;
+    border-width:0px;
+    color:#333;
+    overflow:hidden;
+    padding:10px 5px;
+    word-break:normal;
+}
+
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
