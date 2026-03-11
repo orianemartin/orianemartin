@@ -3,7 +3,7 @@ title: "Methodologies of the study of language"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-methodology
-date: 2023
+date: 2023-01-01
 venue: "Faculté des Lettres, Université de Lausanne"
 location: "Lausanne, Switzerland"
 ---
