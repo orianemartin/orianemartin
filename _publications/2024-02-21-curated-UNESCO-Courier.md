@@ -2,7 +2,7 @@
 title: "The curated UNESCO Courier 1.0: annotated corpora for digital research in the global humanities"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-21-02-curated-UNESCO-Courier
+permalink: /publication/2024-02-21-curated-UNESCO-Courier
 excerpt: 'The monthly magazine of the United Nations Educational, Scientific and Cultural Organization, founded in 1948 as The UNESCO Courier, represents an extraordinary
 resource for research on global themes in the humanities. We present the Curated
 Courier 1.0, a package of digital text corpora, text analysis tools, and supplementary
@@ -16,7 +16,7 @@ for digital research in the global humanities. Second, it outlines how we create
 curated corpus and discusses some challenges we met. Third, it offers examples of
 tools researchers might use to explore and utilize the annotated corpus and discusses
 a few approaches that we have developed and tested.'
-date: 2024-21-02
+date: 2024-02-21
 venue: 'Journal of Open Humanities Data'
 paperurl: 'https://www.diva-portal.org/smash/get/diva2:1844939/FULLTEXT01.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
