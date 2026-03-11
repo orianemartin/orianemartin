@@ -1,13 +1,8 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
-  ],
-  [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Vers un syst\u00e8me binaire de voyelles nasales ? Le fran\u00e7ais septentrional \u00e0 l\u2019\u00e9preuve de la typologie<br />Maison de Norv\u00e8ge; Paris, France",
+    48.8588897,
+    2.320041
   ],
   [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
