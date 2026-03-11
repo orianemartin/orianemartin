@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-11-28-pfc-typologie
 venue: "Colloque International (Inter)phonologie du Français Contemporain"
-date: 2014-02-01
+date: 2025-11-28
 location: "Paris, France"
 ---
 
