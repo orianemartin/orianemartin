@@ -2,9 +2,9 @@
 title: "Experimental Phonetics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
-venue: "Faculté des Lettres, Université de Lausanne"
+permalink: /teaching/2023-phonetics
 date: 2023
+venue: "Faculté des Lettres, Université de Lausanne"
 location: "Lausanne, Switzerland"
 ---
 
