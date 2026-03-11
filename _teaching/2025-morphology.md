@@ -3,7 +3,7 @@ title: "Meaningful units I: Morphology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-morphology
-date: 2025
+date: 2025-09-01
 venue: "Faculté des Lettres, Université de Lausanne"
 location: "Lausanne, Switzerland"
 ---
