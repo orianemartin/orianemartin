@@ -7,7 +7,7 @@ excerpt: 'We present Curated Courier 1.0, a curated and annotated corpus of the 
 date: 2024-02-21
 venue: 'Journal of Open Humanities Data'
 paperurl: 'https://www.diva-portal.org/smash/get/diva2:1844939/FULLTEXT01.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: 'https://academicpages.github.io/files/martin2024.bib'
 citation: 'Martin, B. G., Norén, F. M., Mähler, R., Marklund, A., & Martin, O. (2024). &quot;The Curated UNESCO Courier 1.0: Annotated Corpora for Digital Research in the Global Humanities.&quot; <i>Journal of Open Humanities Data</i>, 10: 20, pp. 1–13. DOI:  https://doi.
 org/10.5334/johd.181'
 ---
