@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * Ph.D in Linguistics, Université de Lausanne, 2028 (expected)
-* M.S. in General Linguistics, Uppsala University, 2023
+* M.S. in General Linguistics, Uppsala University, 2023. ["Perception and Production of French Nasal Vowels by German Native Speakers"](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1765235&dswid=-8243), passed with distinction .
 * B.S. in History and Linguistics, Université de Lausanne, 2021
 * Passerelle DUBS, 2018
 * Maturité professionnelle technique, 2017
-* CFC (apprenticeship), 2017 [médiamatique](https://www.orientation.ch/dyn/show/1900?id=184)
+* CFC (apprenticeship) in [médiamatique](https://www.orientation.ch/dyn/show/1900?id=184), 2017 
 
 Work experience
 ======
