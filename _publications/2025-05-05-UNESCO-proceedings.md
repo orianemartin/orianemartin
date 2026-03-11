@@ -3,7 +3,7 @@ title: "UNESCO’s Proceedings, 1945–2017: A Bilingual Digital Text Corpus"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-05-UNESCO-proceedings
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This article introduces a machine-readable corpus of UNESCO General Conference records (1946–2017) in English and French, designed for digital text analysis and broader reuse in humanities and NLP research.'
 date: 2025-05-05
 venue: 'Journal of Open Humanities Data'
 paperurl: 'https://www.diva-portal.org/smash/get/diva2:1962971/FULLTEXT01.pdf'
