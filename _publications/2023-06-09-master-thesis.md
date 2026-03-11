@@ -6,7 +6,6 @@ permalink: /publication/2023-06-09-master-thesis
 excerpt: 'Master Thesis in General Linguistics'
 date: 2023-06-09
 paperurl: 'https://www.diva-portal.org/smash/get/diva2:1765235/FULLTEXT01.pdf'
-bibtexurl: 'https://orianemartin.github.io/orianemartin/files/martin2024.bib'
 citation: 'Martin, O. M. (2023). "Perception and production of French nasal vowels by German native speakers," Masters degree thesis, Uppsala University, Uppsala, Sweden.'
 ---
 
