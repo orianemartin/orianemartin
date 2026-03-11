@@ -3,8 +3,7 @@ title: "The curated UNESCO Courier 1.0: annotated corpora for digital research i
 collection: publications
 category: manuscripts
 permalink: /publication/2024-21-02-curated-UNESCO-Courier
-excerpt: 'The monthly magazine of the United Nations Educational, Scientific and Cultural
-Organization, founded in 1948 as The UNESCO Courier, represents an extraordinary
+excerpt: 'The monthly magazine of the United Nations Educational, Scientific and Cultural Organization, founded in 1948 as The UNESCO Courier, represents an extraordinary
 resource for research on global themes in the humanities. We present the Curated
 Courier 1.0, a package of digital text corpora, text analysis tools, and supplementary
 material that aims to make the complete archive of this publication from 1948 to
