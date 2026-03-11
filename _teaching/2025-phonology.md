@@ -3,7 +3,7 @@ title: "Sound Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-phonology
-date: 2025
+date: 2025-01-01
 venue: "Faculté des Lettres, Université de Lausanne"
 location: "Lausanne, Switzerland"
 ---
