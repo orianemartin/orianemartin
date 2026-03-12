@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "Oriane Martin, Phd Student in linguistics"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-About me
-======
-Welcome, website in construction... 
+I am a PhD student at the University of Lausanne, working on French nasal vowels. I am particularily interested in the way nasal vowels are evolving and how children deal with such changes. My research interets include phonology, phonetics, language acquisition and typology. 
 
 Other stuff
 ======
-Blablabla... 
+When I'm not working, you can find me doing genealogical research, horse riding, or at a climbing gym. I am 
+
+
+Contact
+======
+Feel free to contact me in French, English, German or Swedish at firstname.lastname@unil.ch.
