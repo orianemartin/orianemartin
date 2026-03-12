@@ -43,23 +43,6 @@ Work experience
   * EPFL, Switzerland
   * One-year internship in the ENAC Web & Communications department, involving website development using Jahia and community management.
   
-Skills
-======
-* Technical Skills
-  * Praat
-  * Python
-  * R
-  * Website development
-      * HTML
-      * CSS
-      * JavaScript
-      * PHP
-  * CMS and LMS
-      * Moodle
-      * Wordpress
-      * Jahia
-      * Joomla
-      
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -96,3 +79,21 @@ Languages
 * German: B2
 * Swedish: B2
 * Latin: Academic knowledge
+
+
+Skills
+======
+* Technical Skills
+  * Praat
+  * Python
+  * R
+  * Website development
+      * HTML
+      * CSS
+      * JavaScript
+      * PHP
+  * CMS and LMS
+      * Moodle
+      * Wordpress
+      * Jahia
+      * Joomla
