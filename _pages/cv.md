@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Linguistics, Université de Lausanne, Switzerland, 2028 (expected)
-* M.S. in General Linguistics, Uppsala University, Sweden, 2023. ["Perception and Production of French Nasal Vowels by German Native Speakers"](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1765235&dswid=-8243), passed with distinction .
+* M.S. in General Linguistics, Uppsala University, Sweden, 2023. ["Perception and Production of French Nasal Vowels by German Native Speakers"](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1765235&dswid=-8243), passed with distinction.
 * B.S. in History and Linguistics, Université de Lausanne, 2021. One semester spent in Uppsala University, Sweden.
 * Passerelle DUBS, 2018
 * Maturité professionnelle technique, 2017
