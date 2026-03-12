@@ -11,7 +11,7 @@ I am a PhD student at the University of Lausanne, working on French nasal vowels
 
 Other stuff
 ======
-When I'm not working, you can find me doing genealogical research, horse riding, or at a climbing gym.
+When I'm not working, you can find me doing genealogical research, horse riding, or at a climbing gym. I am an avid meme enjoyer.
 
 
 Contact
