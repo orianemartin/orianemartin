@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Oriane Martin"
+title                    : "Oriane M. Martin"
 title_separator          : "-"
-name                     : &name "Oriane Martin"
-description              : &description "Oriane Martin's website, PhD student in linguistics, focusing on nasal vowels"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Oriane M. Martin"
+description              : &description "Oriane M. Martin's website, PhD student in linguistics, focusing on nasal vowels"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://orianemartin.github.io/orianemartin" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "orianemartin/orianemartin.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Oriane Martin"
+  name             : "Oriane M. Martin"
   pronouns         : "She/Her"  
   bio              : "PhD Student in French linguistics, focusing on French nasal vowels"
   location         : "Switzerland"
