@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Lausanne, working on French nasal vowels. I am particularily interested in the way nasal vowels are evolving and how children deal with such changes. My research interets include phonology, phonetics, language acquisition and typology. 
+I am a PhD student at the University of Lausanne, working on French nasal vowels. I am particularily interested in the way nasal vowels are evolving and how children deal with such changes. My research interets include phonology, phonetics, language acquisition and typology. I have an IT background. 
 
 Other stuff
 ======
-When I'm not working, you can find me doing genealogical research, horse riding, or at a climbing gym. I am an avid meme enjoyer. I enjoy fun facts about anything and everything, and will gladly talk for too long about theme parks. 
-
+When I'm not working, you can find me doing genealogical research, horse riding, or at a climbing gym. I am an avid meme enjoyer. I enjoy fun facts about anything and everything, and will gladly talk for too long about theme parks (I'm open to job opportunities in the theme park industry!)
 
 Contact
 ======
